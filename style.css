@@ -1,13 +1,13 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color : #f8f9fa;
-    color: #1a252f;
+    background-color : #ffe3f1;
+    color: #1d2835;
     padding: 20px;
 }
 h1{
     margin-top: 20px;
-   font-size: 40px;
+   font-size: 50px;
 }
 h4{
     margin-bottom: 40px;
@@ -19,6 +19,14 @@ h4{
 h2{
     font-size: 40px;
     margin-top: 10px;
+}
+#start{
+    border-radius: 20px;
+    background-color: #f54ca6;
+}
+#start:hover{
+    background-color:#df559f ;
+   
 }
 #mood button{
     padding: 10px 18px;
@@ -86,4 +94,3 @@ background-color:#eb714c;
     flex-shrink: 0;
 }
 h3{font-size: 30px;}
-h1{font-size: 70px;}
