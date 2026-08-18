@@ -49,8 +49,8 @@ button.addEventListener("click",function () {
     }
     happy.addEventListener("click" , function(){
     show("happy");
-     document.body.style.backgroundColor =" #fff3e0";
-    document.body.style.color = "#e65100" ;
+     document.body.style.backgroundColor =" #fbfee2";
+    document.body.style.color = "#9eac00";
     });
     calm.addEventListener("click" , function(){
          show("calm");
