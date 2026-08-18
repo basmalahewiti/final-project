@@ -1,0 +1,89 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color : #f8f9fa;
+    color: #1a252f;
+    padding: 20px;
+}
+h1{
+    margin-top: 20px;
+   font-size: 40px;
+}
+h4{
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+#start{
+    margin-bottom: 40px;
+}
+h2{
+    font-size: 40px;
+    margin-top: 10px;
+}
+#mood button{
+    padding: 10px 18px;
+    margin: 6px;
+    font-size: small;
+    font-weight: bold;
+    border-radius: 20px;
+    color: white;
+}
+#mood{
+    display: none;
+}
+#happy {
+    background-color: #ff7b54; 
+}
+#happy:hover{
+background-color:#eb714c;
+}
+#calm {
+    background-color: #4ea8de;
+}
+#calm:hover{
+    background-color: #3496d2;
+}
+#energetic {
+    background-color: #06d6a0; 
+}
+#energetic:hover{
+    background-color:#36ad8d ;
+}
+#stressed {
+    background-color: #e63946; 
+}
+#stressed:hover{
+    background-color: #cd3f4b;
+}
+#curious {
+    background-color: #7209b7; 
+}
+#curious:hover{
+    background-color: #7e3ea8;
+}
+#bored {
+    background-color: #9e7b66; 
+}
+#bored:hover{
+    background-color: #856451;
+}
+.info{
+    display: flex;
+    text-align: left;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    gap: 50px;
+    align-items: center;
+}
+.text{
+    flex: 1;
+}
+.info img{
+    object-fit: cover;
+    width: 250px;
+    border-radius: 10px;
+    flex-shrink: 0;
+}
+h3{font-size: 30px;}
+h1{font-size: 70px;}
