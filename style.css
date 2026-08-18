@@ -13,14 +13,12 @@ h4{
     margin-bottom: 40px;
     font-size: 20px;
 }
-#start{
-    margin-bottom: 40px;
-}
 h2{
     font-size: 40px;
     margin-top: 10px;
 }
 #start{
+    margin-bottom: 40px;
     border-radius: 20px;
     background-color: #f54ca6;
 }
@@ -40,10 +38,10 @@ h2{
     display: none;
 }
 #happy {
-    background-color: #ff7b54; 
+    background-color: #dff01f; 
 }
 #happy:hover{
-background-color:#eb714c;
+background-color:#bcc24f;
 }
 #calm {
     background-color: #4ea8de;
