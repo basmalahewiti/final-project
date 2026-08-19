@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color : #ffe3f1;
     color: #1d2835;
     padding: 20px;
@@ -38,10 +38,10 @@ h2{
     display: none;
 }
 #happy {
-    background-color: #dff01f; 
+    background-color: #e6f918; 
 }
 #happy:hover{
-background-color:#bcc24f;
+    background-color:#c8cf41;
 }
 #calm {
     background-color: #4ea8de;
@@ -65,7 +65,7 @@ background-color:#bcc24f;
     background-color: #7209b7; 
 }
 #curious:hover{
-    background-color: #7e3ea8;
+    background-color: #670fa2;
 }
 #bored {
     background-color: #9e7b66; 

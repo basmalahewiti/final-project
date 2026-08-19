@@ -10,7 +10,6 @@ let result = document.querySelector("#result");
 let mood = document.querySelector("#mood");
 let greet = document.querySelector("#greeting");
 
-
 button.addEventListener("click",function () {
     let input = name.value;
     if(input.length < 3){
@@ -21,7 +20,6 @@ button.addEventListener("click",function () {
  document.querySelector("#welcome").style.display="block";
     document.querySelector("#mood").style.display = "block";
     });
-
     function show(mood){
          document.querySelector("#welcome").style.display="none";
         result.innerHTML ="";
@@ -43,14 +41,14 @@ button.addEventListener("click",function () {
                 </div>
                  <hr>
                 `;
-            }
+               }
             }
         }
     }
     happy.addEventListener("click" , function(){
     show("happy");
-     document.body.style.backgroundColor =" #fbfee2";
-    document.body.style.color = "#9eac00";
+     document.body.style.backgroundColor =" #fcffe3";
+    document.body.style.color = "#9ea100";
     });
     calm.addEventListener("click" , function(){
          show("calm");

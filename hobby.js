@@ -68,5 +68,47 @@ let hobbies = [
         img :"https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/06/14/istock-500671490.jpg",
         benefits :"Strength, energy and physical fitness", need:"Comfortable clothes and enough space",
         link :"https://www.acefitness.org/resources/everyone/exercise-library/experience/beginner/?srsltid=AfmBOoo40umZ1dT_8kNOblOOWSUa9DImESXdm1LeuwgsQN9h7rcPBU4P"
+    },
+    {
+        name: "Origami",mood : ["calm", "curious", "bored"],
+        description: "Turn simple pieces of paper into animals, flowers, decorations, and useful objects.",
+        img: "https://png.pngtree.com/thumb_back/fw800/background/20230912/pngtree-a-woman-makes-some-colored-origami-paper-image_13176046.png",
+        benefits: "Focus, patience, and creativity" ,need: "Paper",
+        link: "https://origami.me/beginners-guide/"
+    },
+    {
+        name: "Crochet",mood : ["calm", "bored", "happy"],
+        description: "Create useful and decorative objects by working with yarn and a crochet hook.",
+        img: "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/07/28/48859.jpg",
+        benefits: "Creativity, patience, and relaxation",need: "Yarn and a crochet hook",
+        link: "https://www.crochet.com/learning-center/beginner-getting-started?srsltid=AfmBOoo5hfoxFdqn2i70bBOwllmyQKNJmVz2fK-VvPv85N5tDX_zaMfr"
+    },
+    {
+        name: "Calligraphy", mood : ["calm", "curious", "bored"],
+        description: "Practice beautiful lettering and turn ordinary words into creative designs.",
+        img: "https://images.pexels.com/photos/34136699/pexels-photo-34136699/free-photo-of-artisan-calligraphy-on-aged-paper.jpeg",
+        benefits: "Focus, patience, and creativity", need: "Paper and a suitable pen",
+        link: "https://www.lettering-daily.com/"
+    },
+    {
+        name: "Creative Writing",mood : ["calm", "curious", "bored"],
+        description: "Create stories, characters, poems, or anything you can imagine.",
+        img: "https://i1.pickpik.com/photos/363/249/315/writing-writer-notes-pen-preview.jpg",
+        benefits: "Creativity, imagination, and self-expression",need: "A notebook or computer",
+        link: "https://reedsy.com/blog/guide/creative-writing/"
+    },
+    {
+        name: "Cycling",mood : ["energetic", "happy", "bored"],
+        description: "Explore your surroundings while getting active and enjoying time outdoors.",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5uQRtgMpsd4S-NC6e8V5jV_-7pRbpLcSlVJx19JwCcPDfLhQ7q9F19E&s=10",
+        benefits: "Fitness, energy, and exploring new places",need: "A bicycle and a helmet",
+        link: "https://www.cyclinguk.org/advice/beginner-cycling"
+    },
+    {
+        name: "Puzzles",mood : ["calm", "bored", "curious"],
+        description: "Challenge yourself by solving jigsaw puzzles, logic puzzles, and brain teasers.",
+        img: "https://www.shutterstock.com/image-photo/close-unrecognizable-family-playing-jigsaw-260nw-2215720427.jpg",
+        benefits: "Concentration, patience, and problem-solving", need: "A puzzle or puzzle app",
+        link: "https://www.puzzlewarehouse.com/blog/shaped-puzzle-strategy-for-beginners/?srsltid=AfmBOoqDgP3S4GHy58C4zqicnP9ngaYOJoajw3XMSoYZucvBScz4rEPS"
     }
 ];
